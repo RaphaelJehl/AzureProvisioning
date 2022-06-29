@@ -9,7 +9,7 @@ You can find resources about it here :
 - https://docs.microsoft.com/fr-fr/azure/developer/python/sdk/examples/azure-sdk-example-storage-use?tabs=cmd<br/>
 <br/>
 
-Authentification is made using your connection string, you can find it in the "Access keys" tab of you Storage account.<br/>
+Authentification is made using your connection string, you can find it in the "Access keys" tab of your Storage account.<br/>
 Connection string can be inputed raw (not recommended) or using an environment variable.
 1. Open a Powershell prompt to add your connection string to environment variables as follows :
 ```
@@ -28,4 +28,4 @@ You need to provide :
   - local_dir : the path to the local files or directory to upload.
 
 ### 2. to_datalake.py
-Coming soon
+Work in progress
